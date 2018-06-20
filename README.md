@@ -2,7 +2,7 @@
  Project Stub | (Swift 4.0/Xcode 9) - Clima App
 
 
-## Finished App
+## I developed this app by assistance of london  App Brewery for learning purpose
 
 
 ## Fix for Cocoapods v1.0.1 and below
@@ -37,5 +37,5 @@ end
 ```
 
 
-Copyright © The App Brewery
+Copywrite @ The App Brewery 
 
